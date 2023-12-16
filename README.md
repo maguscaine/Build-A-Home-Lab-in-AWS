@@ -13,7 +13,7 @@ This home lab project reflects the ability to simulate and respond to security i
 
 <h2>Environments Used </h2>
 
-- <b>CentOS Stream 9</b> (21H2)
+- <b>CentOS Stream 9</b> *(x86_64)*
 
 <h2>Program walk-through:</h2>
 
