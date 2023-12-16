@@ -5,8 +5,8 @@
 
 <h3>Description</h3>
 
-    This home lab project reflects the ability to simulate and respond to security incidents, ensuring compliance with industry standards and best practices. Additionally, the use of multi-factor authentication underscores proficiency in access control practices, while the implementation of encryption mechanisms highlights awareness of data security and privacy considerations in a cloud context.
-<br />
+  This home lab project reflects the ability to simulate and respond to security incidents, ensuring compliance with industry standards and best practices. Additionally, the use of multi-factor authentication underscores proficiency in access control practices, while the implementation of encryption mechanisms highlights awareness of data security and privacy considerations in a cloud context.
+
 
 
 <h3>Languages and Utilities Used</h3>
