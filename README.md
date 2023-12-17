@@ -9,13 +9,13 @@
 
 
 
-<h3>Languages and Utilities Used</h3>
+<h3>Utilities Used</h3>
 
      - AWS Community Edition
      
-     - EC2
+     - DUO by Cisco
 
-<h3>Environments Used </h3>
+<h3>OS Environments Used </h3>
 
     CentOS Stream 9 (x86_64)
 
