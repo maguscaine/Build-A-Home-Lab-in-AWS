@@ -39,7 +39,7 @@ Login to my AWS account using the credentials I signed up with: <br/>
 <img src="https://i.imgur.com/pRdZvvd.png" height="80%" width="80%" alt="AWS HomeLab"/>
 <br />
 
-    2.) Enable MFA (Multifactor Authentication:
+    2.) Enable MFA (Multifactor Authentication):
 
     Multifactor authentication is an additional layer of security protection that I wanted for my root account.
 
@@ -58,3 +58,12 @@ Once I'm in the screen for "IAM", I am going to click on the button in the middl
 Here, I am naming my MFA device and choosing to authenticate with a token from an app called "DUO" by Cisco. Once I finish naming my device and selecting how I'd like to be authenticated into my root-user account, I click the "Next" button in the lower right corner of the screen: <br/>
 <img src="https://i.imgur.com/QzeLFKv.png" height="80%" width="80%" alt="AWS HomeLab"/>
 <br />
+<br />
+     <p align="center">
+Here, AWS will show me a QR code that I can scan within the authentication app installed on my phone. I will then enter the two TOTP MFA codes that show up sequentially, one after the other, in DUO. Once I confirm the two TOTP MFA codes in the blank fields, I click on the "Add MFA" button on the bottom right of the page, and have officially added another layer of security to protect my root-user account in AWS: <br />
+<img src="https://i.imgur.com/jxky0o3.png" height="80%" width="80%" atl="AWS HOmeLab"/>
+<br />
+
+    3.) Create + Configure a Billing Alarm:
+
+    In my case, I'm using AWS Community Edition (the free one because I'm a broke student, not an enterprise), but I'm still going to show you how to create a billing alarm anyways. This will ensure that you are notified when your charges for using AWS's cloud services exceed a certain value. (It's really up to you! You can configure the settings to whatever suits your needs)
