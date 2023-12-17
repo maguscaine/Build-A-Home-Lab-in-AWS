@@ -1,4 +1,4 @@
-  <h3>CYBERSECURITY HOMELAB IN AWS<h3>
+  <h3>HOMELAB IN AWS<h3>
 
   
 
